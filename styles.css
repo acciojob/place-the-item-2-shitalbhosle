@@ -5,3 +5,21 @@
 	justify-content:center;
 	flex-wrap:wrap;
 }
+.box-1{
+	width:100px;
+	height:100px;
+	background-color:red;
+	order:2;
+}
+.box-2{
+	width:100px;
+	height:100px;
+	background-color:blue;
+	order:3;
+}
+.box-3{
+	width:100px;
+	height:100px;
+	background-color:green;
+	order:1;
+}
